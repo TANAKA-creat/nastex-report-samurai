@@ -1,0 +1,76 @@
+.nastex-report-login-input {
+    border-radius: 2px;
+    border: solid 1px #b2b2b2;
+    background-color: #ffffff;
+}
+
+.naxtex-report-check-label {
+    font-family: YuGo;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.nastex-report-require-input-label {
+    border-radius: 1px;
+    background-color: #e2001b;
+}
+
+.nastex-report-require-input-label-text {
+    font-family: YuGo;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.nastex-report-submit-button {
+    font-family: YuGo;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    background-color: #0fbe9f;
+}
+
+.nastex-report-login-text {
+    font-family: YuGo;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #0fbe9f;
+}
+
+.nastex-header-container {
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,0.1);
+    background-color: #ffffff;
+}
+
+.nastex-header-search-input {
+    border: solid 1px #e5e5e5;
+}
+
+.nastex-header-search-button {
+    background-color: #0fbe9f;
+}
+
+.nastex-header-search-icon {
+    color: #ffffff;
+}
+
+
+
+
